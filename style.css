@@ -90,7 +90,7 @@ h2::after {
 .name {
   float: left;
 }
-.products:hover p {
+.products:hover h4 {
   background-color: rgb(26, 188, 156);
 }
 .name,
